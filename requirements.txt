@@ -1,1 +1,21 @@
-# Add your Python dependencies here
+# Core project dependencies
+# (Add any specific project libraries below)
+
+# Testing
+pytest
+
+# Linting
+flake8
+
+# Code formatting
+black
+
+# Type checking (optional but recommended)
+mypy
+
+# Import sorting (optional but helps with consistency)
+isort
+
+# Test coverage (optional but useful later)
+coverage
+
